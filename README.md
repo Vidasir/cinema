@@ -1,4 +1,4 @@
-# Cinema API Project
+# Cinema API
 
 ## Описание
 
