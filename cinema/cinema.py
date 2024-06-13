@@ -9,7 +9,7 @@ test_db.test(sql, db, 10000)
 
 test_search = Search()
 
-#test_search.views(sql)
+test_search.views(sql)
 #test_search.params(sql)
 
 
